@@ -148,7 +148,7 @@
             height: 180px;
             width: 180px;
             position: absolute;
-            background: url('./img/r1.png');
+            background: url('./Screenshot_20250313-234757 (1).png');
             background-size: cover;
             top: 10px;
             left: 10px;
